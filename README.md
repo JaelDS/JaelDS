@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1> <img src = "https://github.com/JaelDS/JaelDS/blob/main/img/Wave-Hello-GIF-unscreen.gif" alt="Data" style="width:80px; height:80px; border-radius: 10%"/>, I´m José Antonio Escalante López <img src = "https://github.com/JaelDS/JaelDS/blob/main/img/cool-cat-GIF-by-English-For-IT-unscreen.gif" alt="Me" style="width:120px; height:80px"/></h1>
+<h3> Data Scientist <em> in progress... </em> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/ibmoji-GIF-by-IBM-unscreen.gif" alt="IBM" style="width:50px; height:45px; border-radius: 100%"/> | Full Stack Developer Junior <img src="https://github.com/JaelDS/JaelDS/blob/main/img/launchx.png" alt="LaunchX" style="width:45px; height:45px; border-radius: 10%"/> | Retail Investor <img src="https://github.com/JaelDS/JaelDS/blob/main/img/investor.jpg" style="width:55px; height:50px; border-radius: 10%"/> </h3>
+
+[![Twitter:El_estudiante00](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)  [![Linkedin:FernandaOchoa](https://img.shields.io/badge/-Jael-blue?style=flat-square&logo=Linkedin&logoColor-white&link=https://www.linkedin.com/in/fernandaochoa8/)](https://www.linkedin.com/in/jaelds/)  [![GitHub FernandaOchoa](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
+
 
 <!--
 **JaelDS/JaelDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
