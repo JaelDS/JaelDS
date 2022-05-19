@@ -4,7 +4,7 @@
 [![Twitter:El_estudiante00](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)  [![Linkedin:Jael](https://img.shields.io/badge/-Jael-blue?style=flat-square&logo=Linkedin&logoColor-white&link=https://www.linkedin.com/in/fernandaochoa8/)](https://www.linkedin.com/in/jaelds/)  [![GitHub FernandaOchoa](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
 
 ``` javascript
-public class Jael {
+public class DeveloperJael {
     private String code = "Javascript, HTML, CSS, Python, Java, Markdown";
     private String tools = "";
     private String bogart = "Dementor";
