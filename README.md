@@ -9,9 +9,9 @@
 package Developer;
 
 public class Jael {
-    private String code = "Javascript, HTML, CSS, Python, Java, Markdown, Git";
+    private String code = "Javascript, HTML, CSS, Python, Java, Markdown";
     private String tools ="VS Code, IntelliJ, GitHub, Adobe XD, Adobe Illustrator
-                            Figma, Adobe Photoshop, Docker";
+                            Figma, Adobe Photoshop, Docker, Git";
     private String areas = "Web, UI/UX";
 
     public String getCode(){  return code;  }
