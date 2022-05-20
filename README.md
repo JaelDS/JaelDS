@@ -4,7 +4,6 @@
 [![Twitter:El_estudiante00](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)  [![Linkedin:Jael](https://img.shields.io/badge/-Jael-blue?style=flat-square&logo=Linkedin&logoColor-white&link=https://www.linkedin.com/in/fernandaochoa8/)](https://www.linkedin.com/in/jaelds/)  [![GitHub FernandaOchoa](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
 
 <img src="https://github.com/JaelDS/JaelDS/blob/main/img/Its-Me-Stop-GIF-by-joonasjoona-unscreen.gif" height="100" />
-<img src="https://github.com/JaelDS/JaelDS/blob/main/img/investor.jpg" height="40" />
 
 ``` javascript
 package Developer;
