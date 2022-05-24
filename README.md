@@ -1,9 +1,12 @@
-<h1> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/Wave-Hello-GIF-unscreen.gif" height="100" />, I´m José Antonio Escalante López <img src="https://github.com/JaelDS/JaelDS/blob/main/img/cool-cat-GIF-by-English-For-IT-unscreen.gif" height="100" /></h1>
+<h1> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/hi-dark-unscreen.gif" height="80" />, I´m José Antonio Escalante López <img src="https://github.com/JaelDS/JaelDS/blob/main/img/nice.gif" height="60" /></h1>
 <h3> Data Scientist <em> in progress... </em> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/ibmoji-GIF-by-IBM-unscreen.gif" height="50" /> | Full Stack Developer Junior <em>growing...</em> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/launchx.png" alt="LaunchX" height="40" /> | Retail Investor <em>learning...</em> <img src="https://github.com/JaelDS/JaelDS/blob/main/img/investor.jpg" height="40" /> | UI/UX Designer <em>designing...</em> | Backend Java Junior Developer <em>developing... <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius:40px"/> </em> </h3>
 
 [![Twitter:El_estudiante00](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)  [![Linkedin:Jael](https://img.shields.io/badge/-Jael-blue?style=flat-square&logo=Linkedin&logoColor-white&link=https://www.linkedin.com/in/fernandaochoa8/)](https://www.linkedin.com/in/jaelds/)  [![GitHub FernandaOchoa](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
 
-<img src="https://github.com/JaelDS/JaelDS/blob/main/img/Its-Me-Stop-GIF-by-joonasjoona-unscreen.gif" height="100" />
+<img src="https://github.com/JaelDS/JaelDS/blob/main/img/loading.gif"  height="120" />
+
+
+[![Email:n22j14.je@gmail.com](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](n22j14.je@gmail.com)
 
 ``` javascript
 package Developer;
@@ -49,7 +52,8 @@ public String showMessage(){
     }
 
 ```
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /> <a href="mailto:n22j14.je@gmail.com" data-ajax="false"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /></a>
  
 <!--
 **JaelDS/JaelDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
