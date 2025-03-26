@@ -87,8 +87,6 @@ public class Jael {
 
 ## 📊 GitHub Activity
 
-Check out my contribution graph on my [GitHub profile](https://github.com/JaelDS)!
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaelDS&layout=compact&theme=radical)
 
 ## 🔭 Current Projects
