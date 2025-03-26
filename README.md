@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
 [![Twitter](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)
 [![Personal Hub](https://img.shields.io/badge/Personal-HUB-blue)](https://jaelds.github.io/HUB/)
-[![Email](https://img.shields.io/badge/Email-n22j14.je%40gmail.com-red)](mailto:n22j14.je@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jael__dev%40proton.me-red)](mailto:jael_dev@proton.me)
 
 ## 👨‍💻 About Me
 
