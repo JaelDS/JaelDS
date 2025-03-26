@@ -100,8 +100,8 @@ public class Jael {
 ## 📫 Connect With Me
 
 - 📱 Mobile: 0466 188 939
-- 📞 WhatsApp: +525521028726
-- 📧 Email: [n22j14.je@gmail.com](mailto:n22j14.je@gmail.com)
+- 📞 WhatsApp: +525521028726 | +61466188939
+- 📧 Email: [jael_dev@proton.me](mailto:jael_dev@proton.me)
 - 🌐 Personal Hub: [https://jaelds.github.io/HUB/](https://jaelds.github.io/HUB/)
 
 <a href="https://github.com/JaelDS"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></a>
