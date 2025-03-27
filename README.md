@@ -87,6 +87,10 @@ public class Jael {
 
 ## 📊 GitHub Activity
 
+<a href="https://github.com/JaelDS">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaelDS&theme=github-compact" alt="GitHub Activity Graph">
+</a>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaelDS&layout=compact&theme=radical)
 
 ## 🔭 Current Projects
