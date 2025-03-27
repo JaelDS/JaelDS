@@ -1,10 +1,13 @@
 # José Antonio Escalante López
 
-[![LinkedIn](https://img.shields.io/badge/-Jael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaelds/)](https://www.linkedin.com/in/jaelds/)
-[![GitHub Followers](https://img.shields.io/github/followers/JaelDS?style=social)](https://github.com/JaelDS)
-[![Twitter](https://img.shields.io/twitter/follow/El_estudiante00?style=social)](https://twitter.com/El_estudiante00)
-[![Personal Hub](https://img.shields.io/badge/Personal-HUB-blue)](https://jaelds.github.io/HUB/)
-[![Email](https://img.shields.io/badge/Email-jael__dev%40proton.me-red)](mailto:jael_dev@proton.me)
+[![Twitter](https://img.shields.io/badge/Twitter-@ds__jael-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ds_jael)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaelds-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaelds/)
+[![GitHub](https://img.shields.io/badge/GitHub-JaelDS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaelDS/JaelDS)
+[![HackerRank](https://img.shields.io/badge/HackerRank-n22j14__je-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/n22j14_je)
+[![DataCamp](https://img.shields.io/badge/DataCamp-n22j14-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/n22j14)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Portfolio-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1D51z1SCafNWLlR8AeNaaqasIK-EI37MT?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-jael__dev%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:jael_dev@proton.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+61466188939)
 
 ## 👨‍💻 About Me
 
