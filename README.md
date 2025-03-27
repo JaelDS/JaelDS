@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer and ETL Developer with 5+ years of experience specializing in database migration, CI/CD pipeline management, and big data solutions. Currently pursuing a Master's in Cybersecurity at Torrens University in Brisbane, Australia.
+Data Engineer and ETL Developer with 2+ years of experience specializing in database migration, CI/CD pipeline management, and big data solutions. Currently pursuing a Master's in Cybersecurity at Torrens University in Brisbane, Australia.
 
 <details>
   <summary><b>🛠️ Tech Skills</b></summary>
