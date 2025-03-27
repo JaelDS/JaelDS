@@ -87,11 +87,21 @@ public class Jael {
 
 ## 📊 GitHub Activity
 
-<a href="https://github.com/JaelDS">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaelDS&theme=github-compact" alt="GitHub Activity Graph">
-</a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaelDS&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaelDS&layout=compact&theme=radical)
+[![JaelDS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaelDS&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaelDS&theme=radical" />
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaelDS&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaelDS&theme=radical" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaelDS&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaelDS&theme=radical" />
+</div>
 
 ## 🔭 Current Projects
 
