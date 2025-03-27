@@ -1,13 +1,13 @@
 # José Antonio Escalante López
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ds__jael-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ds_jael)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaelds-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaelds/)
-[![GitHub](https://img.shields.io/badge/GitHub-JaelDS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaelDS/JaelDS)
-[![HackerRank](https://img.shields.io/badge/HackerRank-n22j14__je-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/n22j14_je)
-[![DataCamp](https://img.shields.io/badge/DataCamp-n22j14-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/n22j14)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Portfolio-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1D51z1SCafNWLlR8AeNaaqasIK-EI37MT?usp=drive_link)
-[![Email](https://img.shields.io/badge/Email-jael__dev%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:jael_dev@proton.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+61466188939)
+[![Twitter](https://img.shields.io/badge/Twitter-@ds__jael-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ds_jael)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaelds-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaelds/)
+[![GitHub](https://img.shields.io/badge/GitHub-JaelDS-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaelDS/JaelDS)
+[![HackerRank](https://img.shields.io/badge/HackerRank-n22j14__je-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/n22j14_je)
+[![DataCamp](https://img.shields.io/badge/DataCamp-n22j14-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/n22j14)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1D51z1SCafNWLlR8AeNaaqasIK-EI37MT?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-jael__dev%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jael_dev@proton.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+61466188939)
 
 ## 👨‍💻 About Me
 
@@ -25,6 +25,39 @@ Data Engineer and ETL Developer with 5+ years of experience specializing in data
   - **Project Management**: Agile, Scrum, Jira, CI/CD (Jenkins, Bitbucket)
   - **Tools**: VS Code, IntelliJ, GitHub, Adobe XD, Adobe Illustrator, Figma, Adobe Photoshop, Docker, Git
 </details>
+
+## 🎓 Education & Institutions
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="img/torrens.png" height="60" alt="Torrens University"/>
+        <br />
+        <b>Torrens University</b>
+      </td>
+      <td align="center">
+        <img src="img/unam.png" height="60" alt="UNAM"/>
+        <br />
+        <b>UNAM</b>
+      </td>
+      <td align="center">
+        <img src="img/ibm.png" height="60" alt="IBM"/>
+        <br />
+        <b>IBM</b>
+      </td>
+      <td align="center">
+        <img src="img/softtek.png" height="60" alt="Softtek"/>
+        <br />
+        <b>Softtek</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%A7%A1%20Love%20What%20You%20Do-FF5722?style=for-the-badge&labelColor=FF5722&color=blue" height="40" alt="Love What You Do"/>
+</div>
 
 ## 🚀 Professional Roles
 
