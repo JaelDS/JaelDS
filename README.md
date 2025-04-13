@@ -53,14 +53,14 @@ Data Engineer and ETL Developer with 2+ years of experience specializing in data
       </td>
       <td align="center">
         <a href="https://www.unam.mx/" target="_blank">
-          <img src="img/unam.png" height="60" alt="UNAM"/>
+          <img src="img/unam-seeklogo.png" height="60" alt="UNAM"/>
           <br />
           <b>UNAM</b>
         </a>
       </td>
       <td align="center">
         <a href="https://www.ibm.com/" target="_blank">
-          <img src="img/ibm.png" height="60" alt="IBM"/>
+          <img src="img/ibm-svgrepo-com.svg" height="60" alt="IBM"/>
           <br />
           <b>IBM</b>
         </a>
