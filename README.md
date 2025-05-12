@@ -37,7 +37,10 @@ Data Engineer and ETL Developer with 2+ years of experience specializing in data
   - **Cybersecurity**: Kerberos, CyberArk, encryption, permissions management
   - **Project Management**: Agile, Scrum, Jira, CI/CD (Jenkins, Bitbucket)
   - **Tools**: VS Code, IntelliJ, GitHub, Adobe XD, Adobe Illustrator, Figma, Adobe Photoshop, Docker, Git
+  - **Network Fundamentals**: Linux, Cisco Packet Tracer, Wireshark, SIEM
 </details>
+
+
 
 ## 🎓 Education & Institutions
 
